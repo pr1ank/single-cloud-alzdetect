@@ -1,0 +1,5 @@
+source,category,architecture,accuracy_percent,training_minutes,latency_ms
+Paper - Single AWS,REFERENCE,Single-cloud AWS,89.2,210,32
+Paper - Single Azure,REFERENCE,Single-cloud Azure,90.7,245,42
+Paper - Single GCP,REFERENCE,Single-cloud GCP,92.3,150,28
+Paper - Proposed Multi-Cloud,REFERENCE,Multi-cloud AWS/Azure/GCP,94.0,128,24

@@ -1,0 +1,16 @@
+{
+  "instance": "g4dn.xlarge",
+  "region": "us-east-1",
+  "os": "Linux",
+  "tenancy": "Shared",
+  "purchase_option": "On-Demand",
+  "currency": "USD",
+  "hourly_usd": 0.526,
+  "storage_gb_month_usd": 0.08,
+  "storage_type": "EBS gp3",
+  "source": "Fallback pricing reference",
+  "reference_date": "2026-09-22",
+  "compute_source_url": "https://aws.amazon.com/ec2/instance-types/g4/",
+  "storage_source_url": "https://aws.amazon.com/ebs/pricing/",
+  "note": "Bundled public list-price references, not a quote or invoice. Verify before actual provisioning."
+}
